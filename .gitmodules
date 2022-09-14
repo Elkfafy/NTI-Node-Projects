@@ -1,3 +1,9 @@
 [submodule "taskMangage"]
 	path = taskMangage
 	url = https://github.com/Elkfafy/taskMangage
+[submodule "simpleBankSystem"]
+	path = simpleBankSystem
+	url = https://github.com/Elkfafy/simpleBankSystem
+[submodule "userDataBase"]
+	path = userDataBase
+	url = https://github.com/Elkfafy/userDataBase
