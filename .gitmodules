@@ -7,3 +7,6 @@
 [submodule "userDataBase"]
 	path = userDataBase
 	url = https://github.com/Elkfafy/userDataBase
+[submodule "postAppApi"]
+	path = postAppApi
+	url = https://github.com/Elkfafy/postAppApi
