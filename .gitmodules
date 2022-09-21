@@ -10,3 +10,6 @@
 [submodule "postAppApi"]
 	path = postAppApi
 	url = https://github.com/Elkfafy/postAppApi
+[submodule "angularPostFilter"]
+	path = angularPostFilter
+	url = https://github.com/Elkfafy/angularPostFilter
